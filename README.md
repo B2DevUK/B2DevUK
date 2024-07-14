@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brandon and I'm a passionate developer from the UK!</p>
+<p align="left">My name is Brandon and I'm a passionate developer from the UK! I specialise in FiveM development (more specifically Lua), and release both free and paid resources for the FiveM community to enjoy.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning Vue.js<br>🎯 Goals: By 2030, I'd Like to be working for a Fortune 500 Company</p>
+<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning AWS!<br>🎯 Goals: By 2030, I'd Like to be working for a Fortune 500 Company</p>
 
 ###
 
