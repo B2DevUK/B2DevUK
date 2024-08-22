@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning AWS!<br>🎯 Goals: By 2030, I'd Like to be working for a Fortune 500 Company</p>
+<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning ReactJS!<br>🎯 Goals: By 2030, I'd Like to be working for a Fortune 500 Company</p>
 
 ###
 
